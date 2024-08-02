@@ -1,7 +1,5 @@
 # Realtime Chatapp - A full-stack realtime messaging chat application
 
-A project to learn modern full-stack development made by Josh.
-
 ## Features
 
 - Realtime messaging
