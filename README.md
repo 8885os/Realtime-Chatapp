@@ -18,8 +18,3 @@ A project to learn modern full-stack development made by Josh.
 - Class merging with tailwind-merge
 - Conditional classes with clsx
 - Variants with class-variance-authority
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
